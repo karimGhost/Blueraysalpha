@@ -3,7 +3,7 @@
     "source": "functions"
   },
   "hosting": {
-    "public": "dist/blue-rays-alpha",
+    "public": "dist",
     "ignore": [
       "firebase.json",
       "**/.*",
